@@ -35,7 +35,7 @@ cd Assignment1
 make
 cd experiments && ./experiment
 ```
-# Results saved to experiments/result.csv
+Results saved to experiments/result.csv
 
 ## Output
 
